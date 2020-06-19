@@ -1,5 +1,7 @@
 # phonebook
 
+![Screen1](screen/1.PNG)
+
 ## Project setup
 ```
 npm install
